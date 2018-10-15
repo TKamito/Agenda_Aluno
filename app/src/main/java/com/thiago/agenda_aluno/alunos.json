@@ -1,0 +1,12 @@
+{
+  "list": {
+    "aluno": {
+      "id": "1",
+      "nome": "Thiago",
+      "endereco": "rua um",
+      "telefone": "22223333",
+      "site": "www.google.com",
+      "nota": "4.5"
+    }
+  }
+}
